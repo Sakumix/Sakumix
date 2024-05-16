@@ -18,8 +18,9 @@
 
 開発言語：Javascript
 
-開発物；https://www.youtube.com/watch?v=v7JW5OZFKXk&t=8938s　　43：09～　　　2：28：50～
- ※開発いた当時はGithubなどのツールを使いこなせておらず、コードがないためYouTubeを参照
+開発物:https://www.youtube.com/watch?v=v7JW5OZFKXk&t=8938s　　43：09～　　　2：28：50～
+ 
+※開発いた当時はGithubなどのツールを使いこなせておらず、コードがないためYouTubeを参照
 
 　　　
 
